@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: false }));
 
 // Enable CORS
 app.use(cors({
-  origin: ['http://localhost:3000'], // React frontend URL
+  origin: ['https://websiteflp-1.onrender.com'], // React frontend URL
   methods: ['GET', 'POST', 'PATCH', 'DELETE'],
   credentials: true
 }));
