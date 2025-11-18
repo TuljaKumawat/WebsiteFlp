@@ -1,0 +1,168 @@
+#moredetails h2{
+    text-align: center;
+}
+#moredetails p{
+    text-align: justify;
+    margin: 25px 0px;
+}
+
+#header{
+    background: linear-gradient(to right,rgb(43, 69, 249),rgb(2,12,79));
+}
+#header img{
+    background-color: white;
+    width: 100px;
+    border-radius: 75%;
+    box-shadow: 10px 10px black;
+}
+#header ul li a{
+    color: white;
+    font-family: "Wittgenstein", serif;
+    transition: 1s;
+}
+#header ul li a:hover{
+    color: red;
+}
+#header i{
+    color: white;
+    font-size: 25px;
+}
+#header form{
+    display: flex;
+}
+#header .container-fluid{
+    padding: 0px 0px;
+}
+#header form input{
+    margin-right: 6px;
+}
+
+#banner h2{
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+    color: white;
+}
+#banner p{
+    text-align: justify;
+    font-family: "Playwrite US Modern", cursive;
+    color: white;
+}
+#banner #banner-img{
+    width: 180px;
+    border-radius: 50%;
+}
+#banner img{
+    width: 100%;
+}
+#banner #picon{
+    text-align: center;
+}
+#banner{
+    background: linear-gradient(to right,rgb(43, 69, 249),rgb(2,12,79));
+    padding-top: 20px;
+}
+#slider img{
+    width: 100%;
+    height: 400px;
+}
+#slider .col-md-12{
+    padding: 0px 0px;
+}
+#services h2{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+    transition-property: font-size;
+    transition-duration: 3s;
+}
+#services h2:hover{
+    font-size: 50px;
+}
+#services img{
+    width: 180px;
+}
+#services h4{
+    font-family: "Wittgenstein", serif;
+}
+#services p{
+    text-align: justify;
+    font-family: "Playwrite US Modern", cursive;
+}
+#services a i{
+    font-size: 30px;
+}
+#services{
+    padding: 20px 0px;
+}
+
+#testi h2{
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+    margin-bottom: 20px;
+}
+#testi img{
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    margin-bottom: 20px;
+}
+#testi p{
+    text-align: justify;
+    font-family: "Playwrite US Modern", cursive;
+}
+#testi h4{
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+}
+#testi button i{
+    margin-right: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#testi {
+    padding: 20px 0px;
+}
+
+#footer #logo{
+    width: 100px;
+    border-radius: 75%;
+    display: flex;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer form input{
+    margin-bottom: 10px;
+}
+#footer button{
+    margin-top: 10px;
+}
+#footer i{
+    margin-right: 5px;
+    font-size: 25px;
+    color: whitesmoke;
+}
+#footer h2{
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+    color: whitesmoke;
+}
+#footer p{
+    text-align: justify;
+    font-family: "Playwrite US Modern", cursive;
+    color: whitesmoke;
+}
+#footer td{
+    font-family: "Playwrite US Modern", cursive;
+}
+#footer img{
+    width: 50px;
+}
+#footer #footer-border{
+    width: 100%;
+}
+#footer{
+    background: linear-gradient(to right,rgb(43, 69, 249),rgb(2,12,79));
+    padding-bottom: 20px;
+}
